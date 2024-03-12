@@ -1,0 +1,10 @@
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\bin\Debug\2024-03-12_AppPersistance.exe.config
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\bin\Debug\2024-03-12_AppPersistance.exe
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\bin\Debug\2024-03-12_AppPersistance.pdb
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\obj\Debug\2024-03-12_AppPersistance.csproj.AssemblyReference.cache
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\obj\Debug\_2024_03_12_AppPersistance.Form1.resources
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\obj\Debug\_2024_03_12_AppPersistance.Properties.Resources.resources
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\obj\Debug\2024-03-12_AppPersistance.csproj.GenerateResource.cache
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\obj\Debug\2024-03-12_AppPersistance.csproj.CoreCompileInputs.cache
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\obj\Debug\2024-03-12_AppPersistance.exe
+C:\Users\ian.engle\source\repos\2024-03-12_AppPersictance\2024-03-12_AppPersistance\2024-03-12_AppPersistance\obj\Debug\2024-03-12_AppPersistance.pdb
